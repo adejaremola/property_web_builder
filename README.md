@@ -6,6 +6,9 @@ This is a ready to use Laravel based web application for creating real estate we
  
 
 
+**The most up-to-date feature is available in the in-progress branch.**
+
+
 Description
 ============
 This is a drop-in real estate web application that agents and agencies can use to list available properties. 
